@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    border: solid 7px black ;
+}
+
+.logo {
+    color: rgb(224, 249, 4);
+    font-style: italic;
+    font-weight: bold;
+    font-size: x-large;
+    padding: 10;
+    width: 99%;
+    background-color: black;
+    
+}
+
+.div1 {
+    width: 100%;
+}
+
+nav {
+    padding: 0;
+}
+
+.ul1 {
+    list-style-type: none;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+}
+
+.li-navbar {
+    padding-right: 10;
+    margin: ;
+}
+
+nav ul li a {
+    color: black;
+    font-weight: bold;
+        text-decoration: none;
+    }
+
+    nav ul li a:hover {
+        color: rgb(153, 255, 0);
+    }
